@@ -1,0 +1,16 @@
+.bigbox {
+    border: 4px rgb(40, 19, 194);
+    width: 100px;
+    height: 100px;
+}
+
+.smallbox {
+    width: 50px;
+    height: 50px;
+}
+
+.container {
+    border: 4px rgb(90, 23, 222);
+    display: flex;
+    justify-content: space-between;
+}
